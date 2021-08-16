@@ -37,4 +37,8 @@ Start the app
   npm run start
 ```
 
+<<<<<<< HEAD
   
+=======
+  
+>>>>>>> 457034337b0201e3359c1df3e0429e6d5dd0844d
